@@ -25,6 +25,7 @@ HARRY'S PATRONUS
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
+<<<<<<< HEAD
 =======
 lily patronus
 
@@ -47,3 +48,6 @@ SNAPE'S PATRONUS
 >>>>>>> lily
 
 this is a very gooooooood
+=======
+this is a good piece of art
+>>>>>>> harry
